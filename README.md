@@ -1,8 +1,15 @@
 # ServiceWebTemplate-React-Tailwind
 
-![ServiceWebTemplate-React-Tailwind Banner](url_to_banner_image) (If you want to use a banner, add the URL of the image here.)
-
 This project is a single-page web template built using React and Tailwind CSS. Its purpose is to serve as a starting point for those who want to improve themselves and practice web design and React applications.
+
+<img width="1720" alt="servicewebtemplate" src="https://github.com/aligunesv/ServiceWebTemplate-React-Tailwind/assets/82121296/26ec23a2-6429-41ab-8d6b-a74f81b3b1ae">
+
+### Mobile View
+
+<img width="614" alt="servicewebtemplatemobile" src="https://github.com/aligunesv/ServiceWebTemplate-React-Tailwind/assets/82121296/d0aaf10a-a1f1-457c-b0bc-ad29094d20fa">
+
+
+
 
 ## Features
 
@@ -16,30 +23,31 @@ This project is a single-page web template built using React and Tailwind CSS. I
 
 1. To use this template, clone the project to your own account.
 
-'''
+```
 git clone https://github.com/aligunesv/ServiceWebTemplate-React-Tailwind.git
-'''
+```
 
 
 2. Navigate to the project directory.
 
-'''
+```
 cd ServiceWebTemplate-React-Tailwind
-'''
+```
 
 3. Install the necessary dependencies.
 
-'''
+```
 npm install
-'''
+```
 
 4. Start the development server.
 
-'''
+```
 npm start
-'''
+```
 
 5. Go to [http://localhost:3000](http://localhost:3000) in your browser to view the web template live.
+
 
 ## How to Contribute
 
@@ -49,27 +57,27 @@ This project is open to contributions. If you wish to add improvements, new feat
 
 2. Clone your fork to your local machine.
 
-'''
+```
 git clone https://github.com/YOUR_USERNAME/ServiceWebTemplate-React-Tailwind.git
-'''
+```
 
 3. Create a new branch.
 
-'''
+```
 git checkout -b feature/new-feature
-'''
+```
 
 4. Make your changes and commit them.
 
-'''
+```
 git commit -m "New feature: description"
-'''
+```
 
 5. Push your changes to your fork on GitHub.
 
-'''
+```
 git push origin feature/new-feature
-'''
+```
 
 
 6. Open a pull request on GitHub to submit your changes to the main project.
