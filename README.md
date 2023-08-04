@@ -1,4 +1,4 @@
-# ServiceWebTemplate-React-Tailwind 👨‍💻
+# ServiceWebTemplate - React x TailwindCSS 👨‍💻
 
 This project is a single-page web template built using React and Tailwind CSS. Its purpose is to serve as a starting point for those who want to improve themselves and practice web design and React applications.
 
