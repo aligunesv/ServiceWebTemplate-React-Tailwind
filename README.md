@@ -96,4 +96,4 @@ If you have any questions, suggestions, or feedback, please contact me via email
 
 This project is offered for free to those who want to improve themselves. Happy coding!
 
-You can visit my website [imvora.dev](https://imvora.dev).
+You can visit my website [imvora.dev](https://www.imvora.dev).
